@@ -1,0 +1,14 @@
+/dist
+/*.egg-info
+/build
+
+# Mac files
+.DS_Store
+
+# cache files
+__pycache__/
+
+#Ignore jupyter notebook files
+.ipynb_checkpoints/
+
+local_sandbox/
