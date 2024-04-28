@@ -12,3 +12,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 local_sandbox/
+
+# virtual environments
+# **/.env
+cuda_quantum/.env
